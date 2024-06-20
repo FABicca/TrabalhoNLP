@@ -1,0 +1,9 @@
+streamlit==1.31.0
+langchain-openai
+langchain-community
+cohere
+tiktoken
+openai
+pypdf
+pysqlite3-binary
+chromadb
